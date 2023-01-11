@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Jekyll Themes
 =============
 
@@ -20,6 +19,4 @@ License
 -------
 
 The contents of this repository are licensed under the [GNU Public License.](http://www.gnu.org/licenses/gpl-3.0.html)
-=======
 # 053.github.io
->>>>>>> 62bf4142693bcc874a4e65434eee90f490d24bcd
